@@ -1,0 +1,336 @@
+Uri: https://deskedi.ukit.me/
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\index.htm
+Content Type: text/html
+
+Uri: https://deskedi.ukit.me/favicon.ico?v=9967168664734434
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://deskedi.ukit.me/css/devicePublish.min.css?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\css\devicePublish.min.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/css/lib/bootstrap.min.css?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\css\lib\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/css/main-g-theme-site-1-desktop.css
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\css\main-g-theme-site-1-desktop.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/css/main-g-theme-site-1-tablet.css
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\css\main-g-theme-site-1-tablet.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/css/main-g-theme-site-1-phone.css
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\css\main-g-theme-site-1-phone.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/sitecss/srcset-605c5d238107b42a1b03ed2e-all.css?v=5
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\sitecss\srcset-605c5d238107b42a1b03ed2e-all.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/sitecss/typography.css?v=5
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\sitecss\typography.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/dist-version/css/pub.v1.css?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\dist-version\css\pub.v1.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/css/lib/fontawesome-brand.min.css
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\css\lib\fontawesome-brand.min.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/uploads/s/i/e/g/iegpuxeipkeu/img/full_pHTZWuQi.jpeg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\uploads\s\i\e\g\iegpuxeipkeu\img\full_pHTZWuQi.jpeg
+Content Type: image/jpeg
+
+Uri: https://deskedi.ukit.me/uploads/s/i/e/g/iegpuxeipkeu/img/full_Z3uZGOmE.jpeg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\uploads\s\i\e\g\iegpuxeipkeu\img\full_Z3uZGOmE.jpeg
+Content Type: image/jpeg
+
+Uri: https://deskedi.ukit.me/uploads/s/i/e/g/iegpuxeipkeu/img/full_jZ49R36j.jpeg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\uploads\s\i\e\g\iegpuxeipkeu\img\full_jZ49R36j.jpeg
+Content Type: image/jpeg
+
+Uri: https://deskedi.ukit.me/__privacy_policy
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\__privacy_policy.html
+Content Type: text/html
+
+Uri: https://deskedi.ukit.me/css/require/scroll-animation.css?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\css\require\scroll-animation.css
+Content Type: text/css
+
+Uri: https://deskedi.ukit.me/js/lib/modernizr-webp.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\lib\modernizr-webp.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/ulib/performance.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\ulib\performance.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/lib/requirejs.min.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\lib\requirejs.min.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/dist-version/js/pub.v1.bundle.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\dist-version\js\pub.v1.bundle.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/lib/cssrelpreload.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\lib\cssrelpreload.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/ulib/critical.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\ulib\critical.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/ulib/scroll-animation.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\ulib\scroll-animation.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/js/ulib/backgroundBlockColor.js?v=2021_03_24T18_07_45_03_00_b682ad8325b9e537f2e4987564097604783f7688
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\js\ulib\backgroundBlockColor.js
+Content Type: application/javascript
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/icomoon.eot?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/icomoon.woff?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/icomoon.ttf?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\icomoon.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/icomoon.svg?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/fontawesome/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/fontawesome/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/fontawesome/fontawesome-webfont.woff2
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\fontawesome\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/fontawesome/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\fontawesome\fontawesome-webfont-1.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/iconscontacts.eot?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\iconscontacts.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/iconscontacts.woff?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\iconscontacts.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/iconscontacts.ttf?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\iconscontacts.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/fonts/icomoon/iconscontacts.svg?-6ephfk
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\fonts\icomoon\iconscontacts.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/fonts/ukit-published/ukit-published.eot?1586855985
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\ukit-published\ukit-published.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/fonts/ukit-published/ukit-published.woff2?1586855985
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\ukit-published\ukit-published.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/fonts/ukit-published/ukit-published.woff?1586855985
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\ukit-published\ukit-published.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/fonts/ukit-published/ukit-published.ttf?1586855985
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\ukit-published\ukit-published-1.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/fonts/ukit-published/ukit-published.svg?1586855985
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\ukit-published\ukit-published.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/loader.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/loader_dark.gif
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\loader_dark.gif
+Content Type: image/gif
+
+Uri: https://deskedi.ukit.me/img/loader_light.gif
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\loader_light.gif
+Content Type: image/gif
+
+Uri: https://deskedi.ukit.me/img/red_arrow.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\red_arrow.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/img/icons/widget-imageplaceholder.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\icons\widget-imageplaceholder.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/constructor/map-placeholder-screenshot-yandex.jpg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\constructor\map-placeholder-screenshot-yandex.jpg
+Content Type: image/jpeg
+
+Uri: https://deskedi.ukit.me/img/constructor/map-placeholder-screenshot-google.jpg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\constructor\map-placeholder-screenshot-google.jpg
+Content Type: image/jpeg
+
+Uri: https://deskedi.ukit.me/img/upbutton.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\upbutton.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/ukit-copyright-dark.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\ukit-copyright-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/ukit-copyright-light.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\ukit-copyright-light.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/avatar_placeholder.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\avatar_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/quotes1.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\quotes1.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/quotes3.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\quotes3.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/widgets/feedBack/img/recaptcha.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\feedBack\img\recaptcha.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/Telega.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\Telega.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/moimirbw.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\moimirbw.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/img/loading.gif
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\img\loading.gif
+Content Type: image/gif
+
+Uri: https://deskedi.ukit.me/widgets/sliderWysiwyg/img/prev.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\sliderWysiwyg\img\prev.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/widgets/sliderWysiwyg/img/next.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\sliderWysiwyg\img\next.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/sliderleft.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\sliderleft.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/templates/new_teacher/img/sliderright.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\templates\new_teacher\img\sliderright.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/widgets/backCall/img/icon/phone.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\backCall\img\icon\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/widgets/pinterest/img/ico.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\pinterest\img\ico.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.eot?
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.woff
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.ttf
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/widgets/weather/fonts/artill_clean_icons-webfont.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\weather\fonts\artill_clean_icons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/widgets/cart/fonts/cart.eot?3v9alv
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\cart\fonts\cart.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/widgets/cart/fonts/cart.ttf?3v9alv
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\cart\fonts\cart.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/widgets/cart/fonts/cart.woff?3v9alv
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\cart\fonts\cart.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/widgets/cart/fonts/cart.svg?3v9alv
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\cart\fonts\cart.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/widgets/gallery/img/prev.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\gallery\img\prev.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/widgets/gallery/img/next.png
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\widgets\gallery\img\next.png
+Content Type: image/png
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.eot
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.eot?
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.woff2
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.woff
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.ttf
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://deskedi.ukit.me/fonts/fabrands/fa-brands-400.svg
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\fonts\fabrands\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://deskedi.ukit.me/favicon.ico?v=9869129769458576
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://deskedi.ukit.me/sitecss/srcset-605c5d28173edb364cf7f6bd-all.css?v=5
+File Name: c:\Downloaded Web Sites\deskedi.ukit.me\sitecss\srcset-605c5d28173edb364cf7f6bd-all.css
+Content Type: text/css
+
